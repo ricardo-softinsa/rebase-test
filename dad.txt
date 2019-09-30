@@ -1,3 +1,7 @@
 fds
+<<<<<<< HEAD
 
-altered this
+
+=======
+fdsfe
+>>>>>>> acf28fbf2470c1f15dfd8f40035153ecc7181255
